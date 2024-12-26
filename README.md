@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./Img/BannerIvoPinela2024.png" alt="Welcome Banner" style="width: 100%; max-width: 1000px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="./Img/BannerIvoPinela2024.png" alt="Welcome Banner" style="width: 100%; max-width: 1000px; border-radius: 10px; margin-bottom: 20px;" />
 
   # 💫 About Me
   <p style="font-size: 18px; color: #ddd; font-family: 'Arial', sans-serif; line-height: 1.6; text-align: center; margin-top: 10px;">
@@ -31,15 +31,15 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=IvoPinela&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+          <img src="https://github-readme-stats.vercel.app/api?username=IvoPinela&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
         </td>
         <td>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvoPinela&theme=dark&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvoPinela&theme=dark&hide_border=true" alt="GitHub Streak" />
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoPinela&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoPinela&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
         </td>
       </tr>
     </table>
@@ -47,8 +47,8 @@
 
   ## ✍️ Inspiring Quote
   <div align="center" style="margin-top: 30px;">
-    <img src="https://via.placeholder.com/600x100.png?text=✨+Strive+not+to+be+a+success,+but+rather+to+be+of+value.+✨" alt="Inspiring Quote" width="600" style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-    <p style="color: #ddd; font-size: 18px; font-style: italic; text-align: center;">– Albert Einstein</p>
+    <img src="https://via.placeholder.com/600x100.png?text=✨+Strive+not+to+be+a+success,+but+rather+to+be+of+value.+✨" alt="Inspiring Quote" width="600"/>  
+    <p style="color: #ddd; font-size: 18px; font-style: italic;">– Albert Einstein</p>
   </div>
 
   ## 🔝 Top Contributed Repo
