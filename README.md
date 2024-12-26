@@ -12,6 +12,7 @@
   ## 🌐 Socials
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivo_pinela/?next=%2F&hl=pt) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivo-pinela/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white)](mailto:pinelaivo10@gmail.com)
 
   ## 💻 Tech Stack
   <p align="center">
